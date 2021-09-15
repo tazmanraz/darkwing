@@ -4,7 +4,7 @@ This is my first chrome extension app. It converts pages into dark mode with a t
 
 
 ### Demo of darkwing
-!["Toggling to dark mode"](https://github.com/tazmanraz/scheduler/blob/master/docs/pic1.JPG)
+!["Toggling to dark mode"](https://github.com/tazmanraz/darkwing/blob/master/docs/011.gif)
 
 
 ## Setup
